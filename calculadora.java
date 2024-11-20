@@ -4,12 +4,12 @@ public class Calculadora {
         return 0; // TODO
     }
 
-    private static int resta(int a, int b) {
-        return 0; // TODO
+public int restar(int a, int b) {
+        return a - b;
     }
 
-    private static int multiplicacion(int a, int b) {
-        return 0; // TODO
+    public int multiplicar(int a, int b) {
+        return a * b;
     }
 
     private static double division(int a, int b) {
